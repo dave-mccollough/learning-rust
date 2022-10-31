@@ -1,2 +1,3 @@
-# Learning Rush
-Repository for Rust code samples
+# Learning Rust
+
+My collection of notes and code samples for Rust.
