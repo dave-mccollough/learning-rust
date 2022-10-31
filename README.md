@@ -1,2 +1,2 @@
-# learning-rust
+# Learning Rush
 Repository for Rust code samples
