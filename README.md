@@ -6,7 +6,7 @@ Rust notes and code samples
  - [Installing Rust](installing-rust.md)
 
 ## Cargo
- - [Installing Rust](installing-rust.md)
+ - [Cargo notes](cargo.md)
 
 ## Rust Fundamentals
  - [Variables](1-fundamentals/a_variables)
