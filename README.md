@@ -1,2 +1,3 @@
-# learning-rust
+# Learning Rust
+
 Rust notes and code samples
