@@ -10,3 +10,6 @@ Rust notes and code samples
 
 ## Rust Fundamentals
  - [Variables](1-fundamentals/a_variables)
+ - [Datatypes](1-fundamentals/b_datatypes)
+ - [Tuples](1-fundamentals/c_tuples)
+ - [Arrays](1-fundamentals/d_arrays)
