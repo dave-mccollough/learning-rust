@@ -2,7 +2,10 @@
 
 Rust notes and code samples
 
-## Installing Rush
+## Rust Resources
+ - [Resources](resources.md)
+
+## Installing Rust
  - [Installing Rust](installing-rust.md)
 
 ## Cargo
