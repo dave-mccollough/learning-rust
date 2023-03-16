@@ -28,3 +28,5 @@ Rust notes and code samples
  - [Move](2_principles/b_move)
  - [Clone](2_principles/c_clone)
  - [Copy](2_principles/d_copy)
+ - [More Moves](2_principles/e_more_moves)
+ - [References and Borrowing](2_principles/f_ref_and_borrow/)
