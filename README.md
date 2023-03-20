@@ -30,3 +30,8 @@ Rust notes and code samples
  - [Copy](2_principles/d_copy)
  - [More Moves](2_principles/e_more_moves)
  - [References and Borrowing](2_principles/f_ref_and_borrow/)
+
+## Structs and Lifetimes
+ - [Structs](3_structs_lifetimes/a_structs)
+ - [Methods](3_structs_lifetimes/b_methods)
+ 
