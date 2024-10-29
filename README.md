@@ -14,3 +14,6 @@
 
 ## Variables
 - [Variables](variables)
+
+## Datatypes
+- [Data Types](data_types)
