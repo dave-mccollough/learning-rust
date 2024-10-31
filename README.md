@@ -1,19 +1,22 @@
 # Learning Rust
 
 ## Installing Rust
-- [Installing Rust](installing-rust.md)
+- [Link](installing-rust.md)
 
 ## Rust Resources
-- [Resources](resources.md)
+- [Link](resources.md)
 
 ## Cargo Notes
- - [Cargo notes](cargo.md)
+ - [Link](cargo.md)
 
 ## Hello World Application 
-- [Hello World](hello_world)
+- [Project Link](hello_world)
 
 ## Variables
-- [Variables](variables)
+- [Project Link](variables)
 
 ## Datatypes
-- [Data Types](data_types)
+- [Project Link](data_types)
+
+## Constants and Statics
+- [Project Link](constants_statics)
